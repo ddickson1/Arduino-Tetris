@@ -1,7 +1,3 @@
-//Computer Architecture
-//Final Project
-//Devon Dickson
-//
 // Button debounce code is from Adafruit:
 // http://www.adafruit.com/blog/2009/10/20/example-code-for-multi-button-checker-with-debouncing/
 
